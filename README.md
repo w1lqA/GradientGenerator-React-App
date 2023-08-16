@@ -1,1 +1,1 @@
-A simple Gradient Generator app. 
+A simple Gradient Generator React app. 
